@@ -1,3 +1,5 @@
+package model;  
+
 public class Cliente {
     private String nome;
     private String telefone;
@@ -15,7 +17,7 @@ public class Cliente {
 
     public String getTelefone(){
         return telefone;
-    }
+    }   
 
     public String getEndereco(){
         return endereço;

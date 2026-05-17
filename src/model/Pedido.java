@@ -1,3 +1,5 @@
+package model;
+
 public class Pedido {
     private String cliente;
     private String cesta;
