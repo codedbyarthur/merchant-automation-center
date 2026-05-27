@@ -1,46 +1,40 @@
-# OrderHub
-OrderHub is a backend API for managing orders and deliveries, built with a focus on real-world small business needs.
-Instead of relying on informal tools like messaging apps, this system provides a structured way to create, track, and manage orders.
+# MAC (Merchant Automation Center)
 
----
+MAC is a backend platform designed to automate and centralize commercial operations for small businesses. The project focuses on replacing informal workflows — such as spreadsheets, messaging apps, and manual order tracking — with a scalable and structured system capable of supporting real business growth.
+
+The idea for MAC came from observing common operational challenges in small companies, especially around order management, customer communication, and delivery coordination. Instead of relying on fragmented processes, MAC aims to provide a single centralized workflow for commercial operations.
+
 ## 🚀 Current Features
+- Create, update, and manage orders
+- Track order lifecycle and status changes
+- Register and organize customer information
+- Store delivery and operational data
+- Centralize commercial workflows
+- RESTful API structure following backend best practices
+- Layered architecture organization
 
-* Create orders with customer and delivery information
-* Retrieve and list existing orders
-* Update order status (e.g., PENDING, IN_DELIVERY, DELIVERED)
----
-## 🧠 Context
+## ⚙️ Tech Stack
+- Java
+- Spring Boot
+- REST APIs
+- Maven
+- JPA / Hibernate
+- PostgreSQL
+- Git & GitHub
 
-This project was inspired by a real use case: a small business managing “feirinha” (grocery box) orders manually.
-The goal is to replace scattered and manual workflows with a simple, centralized system.
-
----
-## ⚙️ Core Flow
-
-1. An order is created with customer and delivery data
-2. The system stores and organizes the information
-3. Orders are tracked through status updates
----
-
-## 🏗️ Technical Overview
-
-The API is built using:
-* Java
-* Spring Boot
-* REST principles
-
-The domain is currently centered around:
-* Customer
-* Order
-* Product
----
 ## 📌 Project Status
-🚧 In development — actively evolving with new features and improvements.
+🚧 MAC is currently under active development.
 
----
+This project is also part of my backend engineering learning journey, where I apply concepts related to API development, software architecture, database modeling, and scalable backend design in a real-world inspired scenario.
+
 ## 🔮 Planned Improvements
-
-* Authentication and user roles
-* Better order filtering and search
-* Frontend integration
-* Payment support
+- Authentication and authorization with roles
+- JWT security implementation
+- Advanced filtering and search
+- Delivery workflow enhancements
+- Frontend integration
+- Payment processing support
+- Operational dashboards and analytics
+- Notifications and automation features
+- Docker containerization
+- Cloud deployment
