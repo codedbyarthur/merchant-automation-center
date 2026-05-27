@@ -1,8 +1,8 @@
 # MAC (Merchant Automation Center)
 
-MAC is a backend platform designed to automate and centralize commercial operations for small businesses. The project focuses on replacing informal workflows — such as spreadsheets, messaging apps, and manual order tracking — with a scalable and structured system capable of supporting real business growth.
-
-The idea for MAC came from observing common operational challenges in small companies, especially around order management, customer communication, and delivery coordination. Instead of relying on fragmented processes, MAC aims to provide a single centralized workflow for commercial operations.
+MAC — or simply **Big MAC** — is a backend platform focused on automating and centralizing commercial operations for small businesses.
+The project was inspired by real operational challenges, replacing informal workflows such as spreadsheets, messaging apps, and manual order tracking with a scalable and structured system capable of supporting business growth.
+The main goal of MAC is to centralize commercial processes into a single workflow, making order management, customer organization, and operational control more efficient and reliable.
 
 ## 🚀 Current Features
 - Create, update, and manage orders
